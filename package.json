@@ -33,5 +33,6 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "packageManager": "yarn@1.22.1"
 }
